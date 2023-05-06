@@ -35,6 +35,8 @@
 
 # Instructions d'installation du serveur proxy
 
+**Les commandes suivantes sont à réaliser sur le serveur proxy**
+
 ## Configuration SSH
 
 ```bash
@@ -401,6 +403,7 @@ sudo sysytemctl restart netdata
 
 # Instructions d'installation du serveur web
 
+**Les commandes suivantes sont à réaliser sur le serveur web**
 
 ## Mettre à jour les paquets installés 
 
